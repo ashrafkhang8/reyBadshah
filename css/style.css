@@ -1,0 +1,69 @@
+img{
+	max-width: 100%;
+}
+.gallery{
+	background-color: #dbddf1;
+	padding: 80px 0;
+}
+.gallery img{
+	background-color: #FFFFFF;
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0 0 15px rgba(0,0,0,0.3);
+	cursor: pointer;
+}
+#gallery-modal .modal-img{
+	width: 100%;
+}
+
+
+
+.btn {
+  text-align: center;
+  border: 1px solid #3498db;
+  background: whitesmoke;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  margin: 10px ;
+}
+
+
+
+.btn a{
+  text-decoration: none;
+  color: black;
+}
+
+.btn a:hover {
+  color:green;
+}
+
+
+.footer{
+ text-align: center;
+  font-weight: bold;
+  
+}
+
+
+
+.change a{
+  	text-decoration: none;
+	font-size: 20px;
+	margin: 10px;
+	padding: 10px 15px;
+	border-radius: 25%;
+  
+}
+
+.change a:hover, a:nth-child(2){
+	background-color: #cc66ff;
+	color: white;
+	transition: 200ms ease;
+ }
+ 
+ .right{
+   padding: 20px;
+   margin: 10px;
+ }
